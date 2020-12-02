@@ -1,10 +1,10 @@
 # Unit Testing with Jest
 
 
-To run test file you must have jest installed. Make sure you are in the JavaScript directory and run 
+Make sure you are in the JavaScript directory and run 
 
 ```
-npm i -D jest
+npm i 
 ```
 
 Now install the Jest CLI globally and run the test.   
